@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>877856019244-8fbu54k70s82cigrhcf2l1jvp0rrp3rr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.877856019244-8fbu54k70s82cigrhcf2l1jvp0rrp3rr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>877856019244-b31eudnutesa2auo47oulspiu8bepmo0.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXxH5sIE6paMloaV2P0uExmgAosusz438</string>
+	<key>GCM_SENDER_ID</key>
+	<string>877856019244</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nexevol.agent.dev</string>
+	<key>PROJECT_ID</key>
+	<string>devclicksystem-18d9d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>devclicksystem-18d9d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:877856019244:ios:1b9fb48a62d1b186345289</string>
+	<key>DATABASE_URL</key>
+	<string>https://devclicksystem-18d9d-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

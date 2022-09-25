@@ -1,0 +1,76 @@
+{
+  "agentOnline": " عميل متصل",
+  "addNewAgent": "إضافة عميل",
+  "companyCode": "كود تعريفي",
+  "agentCode": "كود العميل",
+  "clearAll": "امسح الكل",
+  "alreadyOnline": "هذا الحساب موجود",
+  "wrongCode": "الكود خاطئ، حاول مجدّدا",
+  "noConnection": "لا يوجد اتصال بالإنترنت",
+  "wait": "جاري التحميل...",
+  "tasks": "المهام",
+  "orderNotFound": "لا توجد مهام",
+  "order": "ر قم الطلب",
+  "service": "الخدمة",
+  "status": "الحالة",
+  "start": "إبدأ",
+  "processing": "مشغول",
+  "finished": "إنتهت المهمة",
+
+  "profile": "الملف الشخصي",
+  "setting": "الإعدادات",
+
+  "totalTasks": "إجمالي المهام المنجزة",
+  "noInfoFound": "لم يتم العثور على معلومات",
+  "noTasksFound": "لا يوجد مهام منجزة",
+
+  "language": "اللغة",
+  "privacy": "الخصوصية والسياسة",
+  "signOut": "تسجيل الخروج",
+
+
+  "pick": "اختر صورة",
+
+
+  "camera": "من الكاميرا",
+
+  "gallery": "من معرض الصور",
+
+  "cancel": "إلغاء",
+
+  "monthly": "شهريا",
+  "totalIncome": "إجمالي الدخل",
+  "kwd": "د.ك",
+  "numberRequired": "مطلوب كلمة مرور بالأرقام",
+
+  "invoiceNum": "رقم الفاتورة",
+  "time": "الوقت",
+  "and": "و",
+  "price": "السعر",
+  "password": "كلمة المرور",
+  "updatePass": "تعديل كلمة المرور",
+  "update": "تعديل",
+  "enterPass": "أدخل كلمة المرور",
+  "enterNewPass": "أدخل كلمة المرور الجديدة",
+  "enterAgainNewPass": "تأكيد كلمة المرور الجديدة",
+  "fillFields": "املأ جميع الحقول",
+  "matchPassword": "يرجى التأكد من تطابق كلتا كلمتي المرور",
+  "passSuccess": "لقد تم تحديث كلمة المرور الخاصة بك بنجاح",
+  "passFailed": "فشل في تحديث كلمة المرور الخاصة بك ، يرجى المحاولة مرة أخرى",
+  "fourDigit": "مطلوب 4 أرقام",
+  "sameOldPass": "لا يوجد تحديث ، كلمة مرورك الجديدة هي نفسها القديمة",
+  "todayTasks": "المهام المنجزة اليوم",
+  "todayIncome": "دخل اليوم",
+  "customerName": "اسم العميل",
+  "cashierName": "اسم الكاشير",
+  "discount": "الخصم/إضافة",
+  "finalPrice": "السعر النهائي",
+  "work": "العمل",
+  "workPeriod": "فترة العمل",
+  "initialWork": "وقت بدء العمل",
+  "orderTime": "وقت الطلب",
+  "notFound": "غير متوفر",
+  "yearly": "سنوي",
+  "startedMsg": "لقد بدأت مهمتك",
+  "finishedMsg": "تم الانتهاء من مهمتك"
+}

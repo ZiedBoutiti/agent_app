@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "877856019244",
+    "firebase_url": "https://devclicksystem-18d9d-default-rtdb.firebaseio.com",
+    "project_id": "devclicksystem-18d9d",
+    "storage_bucket": "devclicksystem-18d9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877856019244:android:36a774ed8b8d5a36345289",
+        "android_client_info": {
+          "package_name": "com.nexevol.agent.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877856019244-rmel2oa1f625ihi5b2qth7bkgchfvstq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc2r71BB5YVsZvFG6x_vCpE1QtpYWJSfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877856019244-rmel2oa1f625ihi5b2qth7bkgchfvstq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877856019244-184r3i5kbtgiokr8r4m2prp0ltq1ugqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nexevol.agent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877856019244:android:3c96bfd4ee9febf1345289",
+        "android_client_info": {
+          "package_name": "com.nexevol.dashboard.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877856019244-rmel2oa1f625ihi5b2qth7bkgchfvstq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc2r71BB5YVsZvFG6x_vCpE1QtpYWJSfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877856019244-rmel2oa1f625ihi5b2qth7bkgchfvstq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877856019244-184r3i5kbtgiokr8r4m2prp0ltq1ugqj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nexevol.agent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
